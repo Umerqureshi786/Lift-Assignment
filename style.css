@@ -1,0 +1,90 @@
+#parentlift {
+    margin-top: 2rem;
+    margin-left: 6rem;
+    /* height: 4rem; */
+    width: 12rem;
+    border: 3px solid rgb(87, 79, 79);
+    background-color: rgb(98, 98, 104);
+}
+
+#one {
+    color: white;
+    border: 1px solid white;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#two {
+    color: white;
+    border: 1px solid white;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#three {
+    color: white;
+    border: 1px solid white;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#four {
+    color: white;
+    border: 1px solid white;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#five {
+    color: white;
+    border: 1px solid white;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+#six {
+    color: white;
+    border: 1px solid white;
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#liftfloors {
+    
+    width: 16rem;
+    height: 4rem;
+    margin-left: 32rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+#liftfloors>div {
+    background-color: rgb(110, 110, 114);
+    border: 1px solid rgb(9, 8, 8);
+    border-radius: 16px;
+    padding: 1.5rem;
+    margin: 4px;
+    color: rgb(245, 245, 247);
+}
